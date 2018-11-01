@@ -1,0 +1,12 @@
+F:\dev\MyCords\MyCords\bin\Debug\MyCords.exe.config
+F:\dev\MyCords\MyCords\bin\Debug\MyCords.exe
+F:\dev\MyCords\MyCords\bin\Debug\MyCords.pdb
+F:\dev\MyCords\MyCords\obj\Debug\MyCords.csprojResolveAssemblyReference.cache
+F:\dev\MyCords\MyCords\obj\Debug\MyCords.exe
+F:\dev\MyCords\MyCords\obj\Debug\MyCords.pdb
+G:\dev\MyCords\MyCords\bin\Debug\MyCords.exe.config
+G:\dev\MyCords\MyCords\obj\Debug\MyCords.exe
+G:\dev\MyCords\MyCords\obj\Debug\MyCords.pdb
+G:\dev\MyCords\MyCords\bin\Debug\MyCords.exe
+G:\dev\MyCords\MyCords\bin\Debug\MyCords.pdb
+G:\dev\MyCords\MyCords\obj\Debug\MyCords.csprojResolveAssemblyReference.cache
